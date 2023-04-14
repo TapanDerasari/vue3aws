@@ -1,0 +1,41 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vueawsdemo-dev-121040-authRole",
+      "UnauthRoleArn": "arn:aws:iam::217532136313:role/amplify-vueawsdemo-dev-121040-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::217532136313:role/amplify-vueawsdemo-dev-121040-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-vueawsdemo-dev-121040-deployment",
+      "UnauthRoleName": "amplify-vueawsdemo-dev-121040-unauthRole",
+      "StackName": "amplify-vueawsdemo-dev-121040",
+      "StackId": "arn:aws:cloudformation:ap-south-1:217532136313:stack/amplify-vueawsdemo-dev-121040/4674ed80-da8f-11ed-9ff7-020f72903196",
+      "AmplifyAppId": "d1deykj4skydzh",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-vueawsdemo-dev-121040-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "vueawsdemof0fac850": {}
+      },
+      "function": {
+        "vueawsdemo18a24353": {
+          "deploymentBucketName": "amplify-vueawsdemo-dev-121040-deployment",
+          "s3Key": "amplify-builds/vueawsdemo18a24353-6d385256426e3373642b-build.zip"
+        },
+        "vueawsdemof6fdb3d1": {},
+        "vueawsdemof01c194d": {
+          "deploymentBucketName": "amplify-vueawsdemo-dev-121040-deployment",
+          "s3Key": "amplify-builds/vueawsdemof01c194d-486f4676615855486470-build.zip"
+        }
+      },
+      "api": {
+        "vueawsdemo": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1deykj4skydzh",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
